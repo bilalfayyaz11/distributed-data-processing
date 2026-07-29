@@ -1,0 +1,26 @@
+# Generated transaction data
+data/
+transactions.csv
+*.csv
+
+# Generated Spark outputs
+output/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Spark runtime files
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Logs and benchmark results
+*.log
+*.out
+benchmark-results.txt
+
+# Editors and operating-system files
+.vscode/
+.idea/
+.DS_Store

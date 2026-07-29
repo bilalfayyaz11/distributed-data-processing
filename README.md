@@ -7,3 +7,4 @@ Production-oriented implementations of distributed computing, large-scale data p
 | What Was Built | Key Technologies | Level |
 |----------------|------------------|-------|
 | [Apache Spark Standalone Cluster](./spark-standalone-cluster) | Apache Spark, PySpark, OpenJDK 17, RDDs, Linux | Advanced |
+| [Large-Scale Transaction Analytics with Apache Spark](./spark-large-scale-analytics) | Apache Spark, PySpark, DataFrames, Parquet, JSON, Caching, Repartitioning | Advanced |

@@ -1,0 +1,27 @@
+# Generated datasets
+data/
+sales_data.json
+*.jsonl
+
+# Generated benchmark results
+benchmark-results/
+
+# Spark event and runtime data
+spark-events/
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Python runtime files
+__pycache__/
+*.py[cod]
+
+# Logs and temporary output
+*.log
+*.out
+*.tmp
+
+# Editors and operating-system files
+.vscode/
+.idea/
+.DS_Store
